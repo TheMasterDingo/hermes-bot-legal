@@ -1,8 +1,8 @@
-# Terms of Service for Hermes
+# Terms of Service for Mercury™
 
 **Effective Date:** July 7, 2025
 
-By using Hermes (“the bot”), you agree to these terms.
+By using Mercury™ (“the bot”), you agree to these terms.
 
 - You must comply with Discord’s Terms of Service and community guidelines.
 - You agree not to misuse the bot for illegal, harmful, or disruptive purposes.
